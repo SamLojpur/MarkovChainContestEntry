@@ -12,7 +12,7 @@ For example:
 
 >>chain.generate()
 
-ans =
+Will return
 
     ' thank you houston texas on me &amp vote smart and built it @tedcruz 5,481,737 @johnkasich 2,724,749 a tv ads alone can triumph over people need strong america #trump2016#makeamericagreatagain https://t.co/v9gltwj6gy '
 
